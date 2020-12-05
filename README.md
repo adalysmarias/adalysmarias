@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can eat 12 hot dogs in a single sitting
 <details>
 <summary>Learn more</summary>
-```
+
 I'm available for hire!
-```
+
 </details>
